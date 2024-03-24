@@ -1,0 +1,411 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "hoangcvph42448@fpt.edu.vn",
+      "password": "nhokgl9x",
+      "username": "vanhoang"
+    },
+    {
+      "id": "2",
+      "email": "vanhoang@gmail.com",
+      "password": "nhokgl9x30072004",
+      "username": "vanhoang"
+    },
+    {
+      "id": "1708389137692.8672",
+      "username": "hoang",
+      "email": "vanhoang@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "1708395755369.3923",
+      "username": "hoangggg",
+      "email": "vanhoang@gmail.com",
+      "password": "1234567"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "tenSP": "Spider Plant  ",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cây trồng",
+      "linkAnh": "https://inhat.vn/wp-content/uploads/2022/01/cay-canh-tay-ninh-1-min.jpg",
+      "xuatXu": "Châu Phi",
+      "phanLoai": "Ưa sáng"
+    },
+    {
+      "id": "2",
+      "tenSP": "Song of India  ",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cây trồng",
+      "linkAnh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzDB2WpllfOqk6TnoZW3VR11m-ca3t9p6ZgeDsaJILd5gqcXe3JJ28rS1olI7HXmBkRA&usqp=CAU",
+      "xuatXu": "Châu Phi",
+      "phanLoai": "Ưa sáng"
+    },
+    {
+      "id": "3",
+      "tenSP": "Grey Star Calarthea",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cây trồng",
+      "linkAnh": "https://down-vn.img.susercontent.com/file/bf80b04177c0e13b5aa0730ec6d0e108",
+      "xuatXu": "Châu Á",
+      "phanLoai": "Hàng mới về"
+    },
+    {
+      "id": "4",
+      "tenSP": "Banana Plant",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cây trồng",
+      "linkAnh": "https://bizweb.dktcdn.net/100/275/164/products/img-0905-093dda7d-e236-4969-8a35-38612357f959.jpg?v=1652773460913",
+      "xuatXu": "Châu Phi",
+      "phanLoai": "Ưa bóng"
+    },
+    {
+      "id": "5",
+      "tenSP": "Black Love Anthurium ",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cây trồng",
+      "linkAnh": "https://cf.shopee.vn/file/259fa40e082e3b1b34124497957a6160",
+      "xuatXu": "Nam Phi",
+      "phanLoai": "Hàng mới về"
+    },
+    {
+      "id": "6",
+      "tenSP": "Pink Anthurium",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "ĐỒ ăn",
+      "linkAnh": "https://image.made-in-china.com/318f0j00tTkUJyqsChoz/anthurium2-mp4.webp",
+      "xuatXu": "Nam Phi",
+      "phanLoai": "Ưa sáng"
+    },
+    {
+      "id": "7",
+      "tenSP": "Planta Trắng",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "5.50",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "10.50",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "18.50",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Chậu cây trồng",
+      "linkAnh": "https://product.hstatic.net/200000239387/product/chau_dao_lon_2020728bbc874ffeb8d557645bd6b96a_1024x1024.jpg",
+      "xuatXu": "Trung Quốc"
+    },
+    {
+      "id": "8",
+      "tenSP": "Planta Lemon Balm",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "5.50",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "10.50",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "18.50",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Chậu cây trồng",
+      "linkAnh": "https://cayxinh.vn/wp-content/uploads/2017/12/chau-gom-dat-nung-nau-2.jpg",
+      "xuatXu": "Việt Nam"
+    },
+    {
+      "id": "9",
+      "tenSP": "Bình tưới CB2 SAIC",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Phụ kiện chăm sóc",
+      "linkAnh": "https://suvina.vn/wp-content/uploads/2022/06/SU1.8L-03-Vang-800x800-1.jpg",
+      "xuatXu": "Trung Quốc"
+    },
+    {
+      "id": "10",
+      "tenSP": "Bình xịt Xiaoda ",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Phụ kiện chăm sóc",
+      "linkAnh": "https://chiemtaimobile.vn/images/detailed/29/binh-xit-nuoc-tu-dong-xiaoda-xd-ddph01-1.jpg",
+      "xuatXu": "Hàn Quốc"
+    },
+    {
+      "id": "11",
+      "tenSP": "Bộ cuốc xẻng mini",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Phụ kiện chăm sóc",
+      "linkAnh": "https://salt.tikicdn.com/cache/w1200/ts/product/cd/10/8e/ac83552f354b130b31deb94934aea7c4.jpg",
+      "xuatXu": "Trung Quốc"
+    },
+    {
+      "id": "12",
+      "tenSP": "Giá đỡ Finn Terrazzo ",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Phụ kiện chăm sóc",
+      "linkAnh": "https://tybest.vn/wp-content/uploads/2019/02/gia-do-chau-cay-09..2.jpg",
+      "xuatXu": "Trung Quốc"
+    },
+    {
+      "id": "13",
+      "tenSP": "Lemon Balm Grow Kit ",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Phụ kiện chăm sóc",
+      "linkAnh": "https://s7d9.scene7.com/is/image/dollargeneral/pop-29911201-2",
+      "xuatXu": "Hàn Quốc"
+    },
+    {
+      "id": "14",
+      "tenSP": "Bình tưới Sierra nhỏ ",
+      "giaSP": [
+        {
+          "size": "Nhỏ",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "Vừa",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "Lớn",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Phụ kiện chăm sóc",
+      "linkAnh": "https://img.alicdn.com/imgextra/i2/TB1UoBbNXXXXXaoXpXXXXXXXXXX_!!0-item_pic.jpg_400x400.jpg_.webp",
+      "xuatXu": "Trung Quốc"
+    }
+  ],
+  "carts": [
+    {
+      "id": "b150",
+      "idSP": "2",
+      "data": {
+        "Vừa": "2"
+      }
+    },
+    {
+      "id": "c078",
+      "idSP": "1",
+      "data": {
+        "S": "1",
+        "Vừa": "1"
+      }
+    }
+  ],
+  "orders": [
+    {
+      "id": "b2aa",
+      "idSP": "1",
+      "createAt": "1707897420571",
+      "data": {
+        "S": "1",
+        "250gm": "1"
+      },
+      "totalPrice": 1.38
+    },
+    {
+      "id": "f15a",
+      "idSP": "2",
+      "createAt": "1707897420575",
+      "data": {
+        "S": "2",
+        "250gm": "2"
+      },
+      "totalPrice": 2.76
+    }
+  ]
+}
